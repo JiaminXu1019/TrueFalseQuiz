@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Sandwich, the food item, is named after a person." ,
+    "A": true
+  },
+  {
+    "question": "Chocolate can be lethal to dogs.",
+    "A": true
+  },
+  {
+    "question": "England's King Henry VIII had all of his six wives killed.",
+    "A": false
+  },
+  {
+    "question": "The hottest part of Earth(its core)is solid.",
+    "A": true
+  },
+  {
+    "question": "In the battle between Captain Ahab and Moby Dick, the whale wins.",
+    "A": true
+  },
+  {
+    "question": "The blue whale, the world's largest animal, has teeth 12 inches long.",
+    "A": false
+  },
+  {
+    "question": "The bear has caused more human deaths than any other mammal in history.",
+    "A": false
+  },
+  {
+    "question": "The highest-grossing film series in history is Star Wars.",
+    "A": false
+  },
+  {
+    "question": "Dubai is home to the tallest man-made structure ever built.",
+    "A": true
+  },
+  {
+    "question": "The sport saved from extinction by President Theodore Roosevelt was football",
+    "A": true
+  }
+]

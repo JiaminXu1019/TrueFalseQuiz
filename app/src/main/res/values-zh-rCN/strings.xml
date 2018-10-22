@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">T真假測驗</string>
+    <string name="quiz_true">真正</string>
+    <string name="quiz_false">假</string>
+    <string name="quiz_initialQuizScore">初始測驗得分</string>
+    <string name="quiz_correct">" 正確"</string>
+    <string name="quiz_incorrect">" 不正確"</string>
+    <string name="score_finalScore">"最終得分 "</string>
+    <string name="score_PlayAgain">再玩一次</string>
+</resources>

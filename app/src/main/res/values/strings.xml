@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrueFalseQuiz</string>
+
+    <string name="quiz_true">true</string>
+    <string name="quiz_false">false</string>
+    <string name="quiz_initialQuizScore">Score:</string>
+    <string name="quiz_correct">Correct!</string>
+    <string name="quiz_incorrect">Incorrect!</string>
+    <string name="score_finalScore">Final Score:</string>
+    <string name="score_PlayAgain">Play Again</string>
+</resources>
