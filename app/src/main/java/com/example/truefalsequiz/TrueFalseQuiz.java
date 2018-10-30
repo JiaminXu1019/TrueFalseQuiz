@@ -30,7 +30,7 @@ public class TrueFalseQuiz extends AppCompatActivity implements View.OnClickList
     private Quiz newQuiz;
 
 
-    public static final String TAG = "TrueFalseQuizActivity";
+    public static final String TAG = "TrueFalseQuizActivityy";
 
     public static final String EXTRA_MESSAGE = "bob";
 
